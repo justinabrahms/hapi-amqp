@@ -1,0 +1,24 @@
+{
+  "name": "hapi-amqp",
+  "version": "1.0.0",
+  "description": "AMQP plugin for HapiJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover -x 'fixtures/*' -x '**/*_test.js' _mocha -- `find . -name '*_test.js'`"
+  },
+  "keywords": [
+    "amqp",
+    "queue",
+    "hapijs"
+  ],
+  "author": "Justin Abrahms <justin@abrah.ms>",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.3.13",
+    "mocha": "^2.2.1"
+  },
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "amqplib": "^0.3.2"
+  }
+}
