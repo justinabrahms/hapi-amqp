@@ -2,6 +2,8 @@
 
 This library is a hapi plugin for [amqplib](https://www.npmjs.com/package/amqplib).
 
+[![wercker status](https://app.wercker.com/status/123df7e94f837350ab3fea1730d05273/s "wercker status")](https://app.wercker.com/project/bykey/123df7e94f837350ab3fea1730d05273)
+
 ## API
 
 - `connection` - The amqplib connection object
