@@ -8,6 +8,6 @@
     "strict": 0
   },
   "globals": {
-    "assert": false
+    "assert": true
   }
 }
