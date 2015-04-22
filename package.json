@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "AMQP plugin for HapiJS",
   "main": "index.js",
+  "repository": "https://github.com/justinabrahms/hapi-amqp",
   "scripts": {
     "test": "istanbul cover -x 'fixtures/*' -x '**/*_test.js' _mocha -- `find . -name '*_test.js' | grep -v node_modules`"
   },
