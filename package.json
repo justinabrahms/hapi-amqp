@@ -1,6 +1,6 @@
 {
   "name": "hapi-amqp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AMQP plugin for HapiJS",
   "main": "index.js",
   "repository": "https://github.com/justinabrahms/hapi-amqp",
